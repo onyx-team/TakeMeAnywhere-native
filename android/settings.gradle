@@ -1,0 +1,3 @@
+rootProject.name = 'TakeMeAnywhereReactNative'
+
+include ':app'
